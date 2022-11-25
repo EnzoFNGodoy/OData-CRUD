@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "sKW1es7P5MlmZrqvlTPs3E2sT2X6oWBg6PfnT6bwZ1hYILrshhHHdJ+C853Ju+uyIkOurZwhr9iBJh633GX0UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enzik\\OneDrive\\Área de Trabalho\\Projetos GITHUB\\ODataCrud\\ODataCrud.API\\ODataCrud.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enzik\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.11\\microsoft.aspnetcore.jsonpatch.6.0.11.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.11\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.11.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\microsoft.aspnetcore.odata\\8.0.11\\microsoft.aspnetcore.odata.8.0.11.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\microsoft.odata.core\\7.12.2\\microsoft.odata.core.7.12.2.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\microsoft.odata.edm\\7.12.2\\microsoft.odata.edm.7.12.2.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\microsoft.odata.modelbuilder\\1.0.8\\microsoft.odata.modelbuilder.1.0.8.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\microsoft.spatial\\7.12.2\\microsoft.spatial.7.12.2.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\enzik\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GfZJqU2P6j8A06maPrP7cE7wAdsfz4JG1FN1kuhiX+M=",
+  "Source": "ODataCrud.API",
+  "BasePath": "_content/ODataCrud.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
